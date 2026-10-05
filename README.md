@@ -1,6 +1,7 @@
 <div align="center">
 
 # 📮 메일딸깍
+<img width="2172" height="724" alt="메일 딸깍, 스마트 발송 배너" src="https://github.com/user-attachments/assets/a5ef87ad-7889-43e1-a60c-98285d63e187" />
 
 ### 거래처별 마감자료 생성부터 메일 발송까지, 딸깍 한 번에.
 
